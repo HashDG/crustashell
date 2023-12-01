@@ -1,0 +1,8 @@
+# Emacs files
+*~
+
+# tarball
+*.tar.gz
+
+# obj files
+*.o
